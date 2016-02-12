@@ -1,0 +1,18 @@
+{
+  "name": "spinnaker_nodejs_example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nodejs index.js"
+  },
+  "engines": {
+    "node": "4.2.4",
+    "npm": "3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gretaio/spinnaker_nodejs_example"
+  },
+  "author": "Dennis Mårtensson <dennis@greta.io> (https://greta.io)",
+  "license": "MIT",
+  "description": "A node example app to use with Spinnaker and pkgr",
+}
