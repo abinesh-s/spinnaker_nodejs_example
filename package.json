@@ -14,5 +14,5 @@
   },
   "author": "Dennis Mårtensson <dennis@greta.io> (https://greta.io)",
   "license": "MIT",
-  "description": "A node example app to use with Spinnaker and pkgr",
+  "description": "A node example app to use with Spinnaker and pkgr"
 }
